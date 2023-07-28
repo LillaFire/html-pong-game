@@ -7,6 +7,6 @@ Find a way to build a mobile friendly pong game without using large IDEs (I had 
 Build the game in browser and Learn the terrible truth of java vs javascript😢
 Use html, javascript and css to build the game use vs code as the IDE.
 4. **Solution Approach**
-- index.html: would be the body of the program and the application essentially.
-- index.js: is the mechanics of the game, such as the collision detection mechanic, movement mechanic and so on.
-- styles.css: is the art and the sexy of the program.
+- index.html: The main body of the program.
+- index.js: is the mechanics of the game, contained the movement function, event listeners, score system and so forth.
+- styles.css: is used to stylize the background and create a border.
