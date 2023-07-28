@@ -4,7 +4,7 @@ This is one of my most memorable memories of IT. This single problem changed my 
 2. **Problem**
 Find a way to build the pong game to show of to friends.
 3. **Solution**
-Build the game in browser and Learn the terrible truth of java vs javascript:|
+Build the game in browser and Learn the terrible truth of java vs javascript😢
 Use html, javascript and css to build the game.
 4. **Solution Approach**
 - index.html: would be the body of the program and the application essentially.
